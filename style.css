@@ -1,0 +1,124 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+html, bodt{
+    height : 100%;
+    width : 100%;
+}
+
+.my-container {
+    height: 100%;
+    width: 100;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+
+#main{
+    height : 10%;
+    width : 100%;
+    background-color: white;;
+}
+
+#nav{
+    height : 100px;
+    width : 100%;
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+    padding : 0px 40px;
+}
+
+#nav-part1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#nav h3{
+    font-size: 17px;
+    border : 1.5px solid #000;
+    font-weight: 500;
+    padding : 5px 17px;
+    border-radius: 50px;
+}
+
+#nav i{
+    font-size: 17px;
+    border : 1.5px solid #000;
+    font-weight: 500;
+    padding : 5px 8px;
+    border-radius: 50px;
+}
+
+#nav h1{
+    font-weight: 500;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+#nav button{
+    padding : 7px 12px;
+    border-radius: 50px;
+    border: 1.5px solid #000;
+    font-size: 16px;
+    background-color: white ;
+}
+
+#btn2{
+    border: none !important;
+    color : white !important;
+    background-color: #0a0909f1 !important;
+}
+
+#aw{
+    font-size: 130px;
+    text-transform: uppercase;
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    width : 100%;
+    text-align: center;
+}
+
+img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    position: absolute;
+    top : 50%;
+    left: 50%;
+    border-radius: 10%;
+    transform: translate(-50%,-50%);
+}
+
+#img1{
+    transform: translate(-50%,-50%) rotate(-30deg);
+}
+
+#img2{
+    transform: translate(-50%,-50%) rotate(-20deg);
+}
+
+#img3{
+    transform: translate(-50%,-50%) rotate(-10deg);
+}
+
+#img3{
+    transform: translate(-50%,-50%) rotate();
+}
+
+#btm-left{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position : absolute;
+    bottom : 5%;
+    left:6%;
+    transform: translate(-50%,-50%);
+    font-size: 15px;
+}

@@ -1,20 +1,24 @@
-Astronaut Theme Page🚀
+#Astronaut Theme Page🚀
 
 
-Welcome to the Astronaut Theme Page repository! 🚀
+##Welcome to the Astronaut Theme Page repository! 🚀
 
-Summary
+###Summary
 This project is a visually captivating HTML and CSS webpage designed around an astronaut theme. It's a demonstration of my front-end development skills and creativity. While it's currently static without JavaScript, it showcases my ability to create engaging user interfaces.
 
-Motivation
+###Motivation
+
 Inspired by the wonder of space exploration and the allure of the cosmos, I embarked on this project to blend my passion for design with coding. Despite being a beginner without JavaScript knowledge, I wanted to challenge myself to create something visually striking and immersive.
 
-Demo
+###Demo
 Check out the live demo here to experience the Astronaut Theme Page firsthand!
 
+###Image
+![GitHub Logo]("C:\Users\HP\Pictures\Screenshots\Screenshot (82).png")
 
 
-Features
+
+###Features
 
 Sleek Design: The webpage boasts a sleek and modern design inspired by astronauts and space exploration.
 
@@ -25,12 +29,13 @@ CSS Animation: Delightful CSS animations bring the page to life, adding dynamism
 Easy to Use: With intuitive navigation and clear sections, users can easily explore the content.
 
 
-Technologies Used
+###Technologies Used
+
 HTML5
 CSS3
 
 
-Future Improvements
+###Future Improvements
 
 While this project is a great starting point, there are several enhancements I plan to implement in the future, including:
 

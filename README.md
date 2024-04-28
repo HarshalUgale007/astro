@@ -28,9 +28,10 @@ Easy to Use: With intuitive navigation and clear sections, users can easily expl
 
 <h3>Technologies Used</h3>
 
-<b HTML5
-CSS3>
-
+<strong>
+HTML5
+CSS3
+</strong>
 
 <h3>Future Improvements</h3>
 

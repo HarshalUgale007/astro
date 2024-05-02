@@ -33,6 +33,10 @@ HTML5
 CSS3
 </strong>
 
+## Screenshot
+![Gameplay Screenshot](./![AstroImage](https://github.com/HarshalUgale007/astro/assets/156573557/b38dde96-9044-4895-bf98-35165e0a1092)
+)
+
 <h3>Future Improvements</h3>
 
 While this project is a great starting point, there are several enhancements I plan to implement in the future, including:

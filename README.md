@@ -28,10 +28,8 @@ Easy to Use: With intuitive navigation and clear sections, users can easily expl
 
 <h3>Technologies Used</h3>
 
-<strong>
-HTML5
-CSS3
-</strong>
+##### HTML5
+##### CSS3
 
 ## Screenshot
 ![Gameplay Screenshot](./![AstroImage](https://github.com/HarshalUgale007/astro/assets/156573557/b38dde96-9044-4895-bf98-35165e0a1092))

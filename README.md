@@ -40,7 +40,7 @@ While this project is a great starting point, there are several enhancements I p
 
 JavaScript Integration: Adding interactivity and dynamic elements to enhance user engagement.
 
-Content Expansion: Incorporating more detailed information and interactive features related to space exploration.
+Content Expansion: Incorporating more detailed information and interactive features related to space exploration..
 
 Accessibility: Ensuring the webpage is accessible to all users, including those with disabilities.
 

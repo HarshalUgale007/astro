@@ -47,3 +47,4 @@ Accessibility: Ensuring the webpage is accessible to all users, including those 
 Contribution
 
 Contributions are welcome! If you have any ideas for improvements or would like to collaborate on this project, feel free to open an issue or submit a pull request.
+
